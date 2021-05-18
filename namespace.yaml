@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: user1-reverse-words-production
+  name: reverse-words-production
